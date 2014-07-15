@@ -9,7 +9,7 @@ Something I often try to communicate is that good design can mean many things. I
 
 ## The 10 commandments of documentation
 
-1. Thou shall not over-document -- If it takes longer to document than to do, you’re over-documenting.
+1. *Thou shall not over-document* -- If it takes longer to document than to do, you’re over-documenting.
 2. Thou shall automate before document -- Take out the human factor whenever possible.
 3. Thou shall not muddle through the same thing three times -- If you’ve messed up or had to figure out the same thing twice, it’s time to proceduralize.
 4. If it’s going to fail, make it fail big -- The trickiest things are the things that you miss the first (and even the 10th) time you review them. If you have a choice between creating a process that will stop the assembly line or crash your site if it fails or one that will create a slight error, always choose “take down the site” because at least you’ll spot the problem first time.
