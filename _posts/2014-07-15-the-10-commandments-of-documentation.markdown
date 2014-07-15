@@ -1,13 +1,13 @@
 ---
 published: true
-title: The 10 commandments of documentation
+title: The 10 Commandments of Documentation
 layout: post
 ---
 I have discussions every now and then at work about things like "the process" and "owning your work.". Every now and then, I'll come across some article that does a far better job than I do of explaining these so I like to keep track. The article, written by Jason Mark, comes from a site I frequent called [Web Designer Depot](http://www.webdesignerdepot.com/2014/07/the-10-commandments-of-documentation/). 
 
 Something I often try to communicate is that good design can mean many things. It can mean clear documentation, organized code, and well-thought workflows on the application. It's a lot more than just how the application looks
 
-## The 10 commandments of documentation
+## The 10 Commandments of Documentation
 
 1. **Thou shall not over-document** -- If it takes longer to document than to do, you’re over-documenting.
 2. **Thou shall automate before document** -- Take out the human factor whenever possible.
