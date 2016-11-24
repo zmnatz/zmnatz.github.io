@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Zaven Mnatzakanian",
+    "label": "Front End Software Engineer",
+    "picture": "",
+    "email": "zmnatz@gmail.com",
+    "phone": "(240) 252-4958",
+    "summary": [
+      "Extensive experience designing and developing programs for streamlining defined processes and increasing user efficiency. Analyzing current practices and developing systems to let the user complete assignments faster and with fewer errors. Proficient in areas of user experience analysis, user interface design and object oriented patterns. Focused on data visualization and delivering information relevant to users' needs"
+    ],
+    "location": {
+      "address": "8848 Stonebrook Ln",
+      "postalCode": "21046",
+      "city": "Columbia",
+      "region": "MD"
+    }
+  },
+  "work": [
+    {
+      "company": "Visionist Inc",
+      "position": "Front End Software Engineer",
+      "startDate": "02/2014",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Ingest and integrate source systems of record from across the organization into a common dashboard interface (retrieving data via JMS, REST, CORS",
+        "Provide users with operational awareness by using D3 visualizations, customized event feeds and other data models that consolidate information from each source system",
+        "Create user portal for guiding users to organization applications including Elastic Search based tools for finding relevant applications for goals",
+        "Collaborate with other UI developers across the organization to promote common UI standards and reduce duplication of efforts.",
+        "Develop rest services for Java and Sails (NodeJS) services to match user interface needs"
+      ]
+    },
+    {
+      "company": "General Dynamics AIS",
+      "position": "Sr. Software Engineer",
+      "startDate": "06/2011",
+      "endDate": "02/2014",
+      "summary": "",
+      "highlights": [
+        "Subject matter expert and lead developer for extensible \"health and status\" system with configurable performance metrics 30+ servers (various operating systems) and 20+ databases (Sybase, MySQL, PostgreSQL).",
+        "Oversee front-end feature development including technical detail documentation and automated test procedures.",
+        "Developed program specific SmartGWT framework to standardize interfaces across the contract and advise others on GUI development best practices.",
+        "Analyze customer needs and design simplified visualizations for displaying tailored data for each customer use case."
+      ]
+    },
+    {
+      "company": "Lockheed Martin Corporation",
+      "position": "Associate Software Engineer",
+      "startDate": "06/2008",
+      "endDate": "06/2011",
+      "summary": "",
+      "highlights": [
+        "Develop license submission workflow to expedite government form submissions",
+        "Develop dynamic database reporting system using Hibernate and iText",
+        "Design versioning and notification systems to ensure government compliance for users.",
+        "Design task management system to track work assignments within a program (task assignments, reminders, link to other objects in system)."
+      ]
+    },
+    {
+      "company": "Naval Research Laboratory",
+      "position": "Engineering Technician",
+      "startDate": "05/2007",
+      "endDate": "02/2008",
+      "summary": "",
+      "highlights": [
+        "Design user interfaces to organize lab findings, plot data, and interact with lab equipment",
+        "Rapid creation of programs to utilize lab equipment"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Johns Hopkins University",
+      "area": "Computer Science",
+      "studyType": "MS",
+      "startDate": "01/2010",
+      "endDate": "08/2012",
+      "courses": [
+        "Human Computer Interaction", 
+        "Information Visualization", 
+        "Computer Graphics (OpenGL)"
+      ]
+    }, {
+      "institution": "University of Maryland, College Park",
+      "area": "Computer Engineering",
+      "studyType": "BS",
+      "startDate": "08/2005",
+      "endDate": "12/2008",
+      "courses": [
+        "Engineering Design (Team Lead)", 
+        "Human Computer Interaction", 
+        "Object Oriented Programming", 
+        "Operating Systems"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frameworks",
+      "keywords": ["Ember", "NodeJS", "Sails", "ExtJS", "Google Web Toolkit", "Smart GWT"]
+    },
+    {
+      "name": "Languages",
+      "keywords": ["Javascript", "Coffeescript", "CSS 3", "Emblem", "Java"]
+    },
+    {
+      "name": "Development",
+      "keywords": ["RESTeasy", "ActiveMQ(JMS)", "Maven", "Spring", "Hibernate", "Tomcat", "Selenium"
+      ]
+    }
+  ]
+}
