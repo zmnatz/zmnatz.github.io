@@ -13,12 +13,16 @@
       "postalCode": "21046",
       "city": "Columbia",
       "region": "MD"
-    }
+    },
+    "profiles": [{
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/zmnatz"
+    }]
   },
   "work": [
     {
       "company": "Visionist Inc",
-      "position": "Front End Software Engineer",
+      "position": "Senior Software Engineer",
       "startDate": "02/2014",
       "endDate": "Present",
       "summary": "",
