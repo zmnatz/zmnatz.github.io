@@ -1,11 +1,15 @@
 language: node_js
 node_js:
     - "node"
+
+before_install:
+    - git config --global user.email "builder@travisci.com"
+    - git config --global user.name "Travis CI"
 install:
     - npm install -g resume-cli
 script:
     - resume export -t OnePage index.html
-after_script:
+after_success:
     - git add index.html
     - git commit -am "[ci skip] Built resume"
     - git push
