@@ -5,3 +5,7 @@ install:
     - npm install -g resume-cli
 script:
     - resume export -t OnePage index.html
+after_script:
+    - git add index.html
+    - git commit -am "[ci skip] Built resume"
+    - git push
