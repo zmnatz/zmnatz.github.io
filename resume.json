@@ -7,9 +7,7 @@
     "phone": "(240) 252-4958",
     "summary": "Extensive experience designing and developing programs for streamlining defined processes and increasing user efficiency. Analyzing current practices and developing systems to let the user complete assignments faster and with fewer errors. Proficient in areas of user experience analysis, user interface design and object oriented patterns. Focused on data visualization and delivering information relevant to users' needs.",
     "location": {
-      "address": "8848 Stonebrook Ln",
-      "postalCode": "21046",
-      "city": "Columbia",
+      "city": "Elkridge",
       "region": "MD"
     },
     "profiles": [{
@@ -99,16 +97,15 @@
   "skills": [
     {
       "name": "Frameworks",
-      "keywords": ["Ember", "NodeJS", "Sails", "ExtJS", "Google Web Toolkit", "Smart GWT"]
+      "keywords": ["React", "NextJS", "Ember", "Google Web Toolkit"]
     },
     {
       "name": "Languages",
-      "keywords": ["Javascript", "Coffeescript", "CSS 3", "Emblem", "Java"]
+      "keywords": ["Typescript", "Javascript", "Java"]
     },
     {
       "name": "Development",
-      "keywords": ["RESTeasy", "ActiveMQ(JMS)", "Maven", "Spring", "Hibernate", "Tomcat", "Selenium"
-      ]
+      "keywords": ["Leaflet", "Material UI", "Storybook"]
     }
   ]
 }
